@@ -1,0 +1,3 @@
+Edit notes option is not working at appointments.
+inventory -- items -- edit -- save button is not working.
+inventory -- items -- delete is working but page is not running. 
